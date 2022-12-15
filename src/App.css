@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+}
+
+.Sample{
+  border:rgba(244, 151, 30, 0.993);
+  text-align: center;
+  height: 55px;
+  width: 1470px;
+  margin-left: 30px;
+  margin-right: 30px;
+  border-radius: 5px;
+  margin-top: 50px;
+  padding-top: 25px;
+  background-color:rgba(244, 151, 30, 0.993);
+  color: white;
+  font-weight: bold;
+  font-size: larger;
+}
+
+Link{
+  border: teal;
+  height: 55px;
+  width: 300px;
+
+}
+.Sample2{
+  border:rgba(16, 247, 159, 0.993);
+  text-align: center;
+  height: 25px;
+  width: 450px;
+  border-radius: 5px;
+  margin-top: 30px;
+  padding-top: 1px;
+  padding-bottom: 38px;
+  margin-left: 550px;
+  background-color:rgba(16, 247, 159, 0.993);
+  color: rgb(3, 3, 3);
+  font-weight:normal;
+  font-size: larger;
+
+}
+
+.Sample3{
+  border:rgba(16, 247, 159, 0.993);
+  text-align: center;
+  height: 25px;
+  width: 450px;
+  border-radius: 5px;
+  margin-top: 30px;
+  padding-top: 1px;
+  padding-bottom: 38px;
+  margin-left: 550px;
+  background-color:rgba(16, 247, 159, 0.993);
+  color: rgb(3, 3, 3);
+  font-weight:normal;
+  font-size: larger;
+
+}
+
+.Container{
+  text-align: center;
+  margin-left: 50px;
+  margin-top: 100px;
+}
+.s1{
+ 
+  margin-left: 60px;
+  background-color: rgb(44, 222, 216);
+  margin-right: 50px;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+
+}
