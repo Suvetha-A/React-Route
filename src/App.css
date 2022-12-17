@@ -22,8 +22,8 @@ Link{
   border: teal;
   height: 55px;
   width: 300px;
-
 }
+
 .Sample2{
   border:rgba(16, 247, 159, 0.993);
   text-align: center;
@@ -38,7 +38,6 @@ Link{
   color: rgb(3, 3, 3);
   font-weight:normal;
   font-size: larger;
-
 }
 
 .Sample3{
@@ -55,7 +54,6 @@ Link{
   color: rgb(3, 3, 3);
   font-weight:normal;
   font-size: larger;
-
 }
 
 .Container{
@@ -63,8 +61,8 @@ Link{
   margin-left: 50px;
   margin-top: 100px;
 }
+
 .s1{
- 
   margin-left: 60px;
   background-color: rgb(44, 222, 216);
   margin-right: 50px;
@@ -73,6 +71,4 @@ Link{
   text-align: center;
   text-decoration: none;
   display: inline-block;
-
-
 }

@@ -1,4 +1,3 @@
-
 import React from "react";
 import { BrowserRouter as Router,Routes,Route,Link} from "react-router-dom";
 import Home from "./Components/home.js";
@@ -20,6 +19,7 @@ function Routerapp (){
           <Link className="s1" to="/Component2" >Component2</Link>
           
         </nav>
+
         <p className="Sample">App Component Works</p>
         <Routes>
           <Route path="/Home" element={<Home/> }></Route>
